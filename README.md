@@ -1,6 +1,6 @@
 # rainbowsocks-http
 
-Similar to node.js's http interface tunneling though a SOCKS4a proxy
+HTTP interface for tunneling though a SOCKS4a proxy
 
 ## Install
 
