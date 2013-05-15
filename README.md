@@ -16,7 +16,7 @@ HTTP interface for tunneling though a SOCKS4a proxy
 
 ```javascript
 // var http = require('rainbowsocks-http')(socksPort [, socksHost || '127.0.0.1']);
-var http = require('./')(9050);
+var http = require('rainbowsocks-http')(8080);
 
 var req = http.request('http://github.com', function(res) {
   console.log('statusCode: ', res.statusCode);
