@@ -1,0 +1,27 @@
+{
+  "name": "rainbowsocks-http",
+  "version": "0.0.0",
+  "description": "http interface for tunneling though a SOCKS4a proxy",
+  "main": "index.js",
+  "dependencies": {
+    "rainbowsocks": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bencevans/node-rainbowsocks-http.git"
+  },
+  "keywords": [
+    "socks",
+    "socks4a",
+    "proxy",
+    "http",
+    "request"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
