@@ -4,7 +4,7 @@
   "description": "http interface for tunneling though a SOCKS4a proxy",
   "main": "index.js",
   "dependencies": {
-    "rainbowsocks": "~0.1.0"
+    "socks-proxy-agent": "~0.1.0"
   },
   "devDependencies": {},
   "scripts": {
