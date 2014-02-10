@@ -1,5 +1,7 @@
 # rainbowsocks-http
 
+**DEPRECIATED: There's a better method to how this module works. Instead use a http Agent provided in [TooTallNate/node-socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent) which also makes use of [bencevans/node-rainbowsocks](https://github.com/bencevans/node-rainbowsocks).**
+
 HTTP interface for tunneling though a SOCKS4a proxy
 
 ## Install
